@@ -1,0 +1,9 @@
+.build/
+.ruff_cache/
+SidecarAutoConnect.app/
+docs/superpowers/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+.swiftpm/
+.DS_Store
